@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BookSystem</string>
+    <string name="bt_name">图书管理系统</string>
+    <string name="insert_label">请输入图书信息</string>
+    <string name="delete_label">输入删除的书名</string>
+    <string name="sett_label">请输入图书信息</string>
+    <string name="select_label">请输入查找的书名</string>
+    <string name="book_id">图书编号</string>
+    <string name="book_name">图书名</string>
+    <string name="book_price">图书价格</string>
+    <string name="insert">添加</string>
+    <string name="delete">删除</string>
+    <string name="select">查找</string>
+    <string name="sett">修改</string>
+</resources>
