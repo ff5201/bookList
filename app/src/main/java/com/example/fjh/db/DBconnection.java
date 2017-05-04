@@ -11,6 +11,7 @@ import android.util.Log;
 
 public class DBconnection extends SQLiteOpenHelper {
 
+
     private final static int DATABASE_VERSION = 1;
     private final static String DATABASE_NAME = "book.db";
 
